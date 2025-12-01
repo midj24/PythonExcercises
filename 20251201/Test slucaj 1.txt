@@ -1,0 +1,14 @@
+Test slucaj 1:
+
+Novac na racunu podesiti na 1200
+Cena proizvoda: 500
+
+Izvrsiti kupovinu (klik na taster)
+
+Ocekivano:
+Dobijena poruka: Uspesna kupovina
+Novi iznos na racunu 700
+
+Dobijeno:
+Dobijena poruka: Uspesna kupovina
+Novi iznos na racunu 700
